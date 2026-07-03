@@ -14,4 +14,3 @@ logging.basicConfig(
 )
 
 logger = logging.getLogger("InvestmentIntelligence")
-print("Logger module loaded")
